@@ -19,6 +19,7 @@ int main(void)
 	{
 
 		printf("vuhuy comment đầu tiên");
+		printf("ahihihihih");
 
 //		uart_uart1_transmit((uint8_t*)data,strlen(data),HUY_MAX_DELAY);
 		printmsg("hello world \r\n");
